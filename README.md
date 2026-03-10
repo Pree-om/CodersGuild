@@ -1,56 +1,57 @@
 <div align="center">
 
-🚀 Welcome to the SOA Coders’ Guild!
+# SOA CODERS’ GUILD
+### **LEVEL UP • POWER UP • GLOW UP**
 
-Where coders level up, power up & glow up ✨💻
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+**The ultimate learn → practice → test power loop.** *Merging the forces of **Codex**, **CN10XoC**, and **GFG Campus Body ITER**.*
 
 </div>
 
-⚡ The Ultimate Coding Ecosystem
+## ⚡ The Ecosystem
+We don't just write syntax; we build engineering mindsets. Backed by industry mentors and a community fueled by the grind.
 
-We’ve merged the forces of Codex, CN10XoC, and GFG Campus Body ITER to build the ultimate learn → practice → test power loop. Backed by mentors, industry experts, and a community ready for some serious grind.
+* **🗓️ Daily Coding Drills** | Consistency is the only "cheat code." We code every day.
+* **🥷 Weekend Ninja Clinics** | Deep dives into advanced algorithms and system design.
+* **⚔️ Ranked Battles** | High-stakes contests to stress-test your skills under pressure.
+* **🦸‍♂️ The Endgame** | DSA mastery, lightning-fast coding speed, and placement superpowers.
 
-💥 What’s inside the Guild?
+---
 
-🗓️ Daily coding drills: Consistency is key. We code every day.
+## 🧠 Mentor’s Hub (The Logic Vault)
+> "Talk is cheap. Show me the logic."
 
-🥷 Weekend ninja clinics: Deep dives into advanced concepts and algorithms.
+Hey there! 👋 I am a **Mentor** at the SOA Coders' Guild. This repository is my personal code vault and teaching hub. I don't just push code here; **I push LOGIC.** If you're stuck on a drill or bombed a ranked battle, this is your sanctuary. For every solution, you'll find a detailed breakdown of the *Why* and the *How*.
 
-⚔️ Ranked battles: Test your skills in high-stakes contests (a.k.a. tests 👀).
+### 🛠️ The Mentor's Mandate
+*To get the most out of these resources, do not skip the protocol:*
 
-🦸‍♂️ The Ultimate Goal: DSA gains, coding speed boosts & placement superpowers.
+| Step | Action | Description |
+| :--- | :--- | :--- |
+| **01** | **The Struggle** | Try it yourself first. Break it. Fail. Try again. |
+| **02** | **The Logic** | Read the commented approach in my file *before* looking at the code. |
+| **03** | **The Blind Code** | Once you understand the logic, go to your editor and write it from scratch. |
+| **04** | **The Refactor** | Compare your code against mine. Did you miss an edge case? Is there a faster way? |
 
-🧠 About This Repository (Mentor's Hub)
+---
 
-Hey there! 👋 I am a Mentor at the SOA Coders' Guild.
-
-This repository is my personal code vault and teaching hub. I don't just push code here; I push LOGIC. If you are stuck on a drill, bombed a ranked battle, or just can't wrap your head around a specific algorithmic approach, this is your sanctuary. For every piece of code you find here, you'll find a detailed breakdown of the why and how behind it.
-
-🛠️ How to Use This Repo
-
-To get the most out of these resources, don't just copy-paste! Follow the Mentor's Mandate:
-
-Try it yourself first: Give the problem your best shot. Break it. Fail. Try again.
-
-Read the LOGIC: Open my solution file and read the commented logic/approach before looking at the code.
-
-Code it blindly: Once you understand the approach, go back to your editor and write it yourself.
-
-Compare & Optimize: Check your code against mine. Did you miss an edge case? Is there a faster way?
-
-🤝 Let's Connect & Grow
-
+## 🤝 Let's Connect & Grow
 Got questions about a specific solution? Found a bug in my code? (Hey, even mentors make typos!).
 
-Open an Issue on this repository.
+* **Open an Issue:** Right here on this repository.
+* **Ping the Guild:** Find me on the **Discord/WhatsApp** groups.
+* **Live Sessions:** Catch me during the **Weekend Ninja Clinics!**
 
-Ping me in the Guild's Discord/WhatsApp group.
-
-Catch me during the Weekend Ninja Clinics!
+---
 
 <div align="center">
-<i>"Talk is cheap. Show me the logic."</i>
 
-<b>Happy Coding! 💻🔥</b>
+### **Happy Coding! 💻🔥**
+`git commit -m "another day closer to excellence"`
 
 </div>
