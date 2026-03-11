@@ -31,7 +31,6 @@ We don't just write syntax; we build engineering mindsets. Backed by industry me
   <a href="https://leetcode.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="45" height="45" style="margin: 10px;"/></a>
   <a href="https://codeforces.com/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="Codeforces" width="45" height="45" style="margin: 10px;"/></a>
   <a href="https://www.geeksforgeeks.org/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="45" height="45" style="margin: 10px;"/></a>
-  <a href="https://www.codingninjas.com/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-coding-ninjas-3628731-3030113.png" alt="Coding Ninjas" width="45" height="45" style="margin: 10px;"/></a>
   <a href="https://www.hackerrank.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="45" height="45" style="margin: 10px;"/></a>
   <br/>
 </div>
